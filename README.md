@@ -28,7 +28,7 @@ Population-Census-Analysis/
 - 📈 Interactive visuals for population trends over time
 - 📊 Capital count by continent
 - 🗺️ Geo-map showing population % breakdown worldwide
-- 📦 No missing or duplicate values – clean data used directly
+- 📦 The dataset was already well-organized with no missing or null values, verified using Python before loading into Power BI.
 
 ---
 
@@ -36,7 +36,7 @@ Population-Census-Analysis/
 
 - ✅ Power BI (for visual storytelling)
 - ✅ Google Colab (for data verification using Python)
-- ✅ CSV Dataset (world population with year & continent)
+- ✅ CSV Dataset (Contains structured population data (1970–2022) with fields like country, capital, continent, area, density, and world population percentage)
 
 ---
 
