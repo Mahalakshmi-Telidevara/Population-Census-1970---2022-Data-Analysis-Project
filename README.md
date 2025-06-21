@@ -40,11 +40,18 @@ Population-Census-Analysis/
 
 ---
 
-## 🖼️ Dashboard Preview
+## 🖼️ Dashboard Previews
 
-> *(Add or update the following image in your repo as `Screenshots/dashboard-preview.png`)*
+Visual insights captured from the Power BI report:
 
+![Population Trend](Screenshots/population-trend.png)
+![Capital Distribution](Screenshots/capital-distribution.png)
+![Geo Map](Screenshots/geo-map-visual.png)
+![Population Cards](Screenshots/population-cards.png)
+
+> 🔍 Full Dashboard Overview  
 ![Dashboard Preview](Screenshots/dashboard-preview.png)
+
 
 ---
 
