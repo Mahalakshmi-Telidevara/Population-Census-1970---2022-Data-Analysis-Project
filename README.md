@@ -68,7 +68,7 @@ Visual insights captured from the Power BI report:
 ## 📬 Connect
 
 Feel free to explore, star ⭐, or fork the repo.  
-Authored by **[Mahalakshmi Telidevara](https://github.com/Mahalakshmi-Telidevara)**
+Authored by **[Telidevara S V S Kanaka Mahalakshmi](https://github.com/Mahalakshmi-Telidevara)**
 
 ---
 
